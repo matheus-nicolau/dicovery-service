@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>github.matheus-nicolau</groupId>
-	<artifactId>discoveryServer</artifactId>
+	<artifactId>discovery-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>discoveryServer</name>
+	<name>discovery-server</name>
 	<description>lab to discovery server</description>
 	<url/>
 	<licenses>
