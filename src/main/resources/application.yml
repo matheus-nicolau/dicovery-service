@@ -1,9 +1,12 @@
+server:
+  port: 8761
+
 spring:
   application:
     name: discovery-server
-
-server:
-  port: 8761
+  output:
+    ansi:
+      enabled: ALWAYS
 
 eureka:
   client:
